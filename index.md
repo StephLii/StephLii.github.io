@@ -4,8 +4,10 @@ layout: default
 
 # Welcome to Steph Li's Blog!
 
-![Image of fast.ai logo](images/logo.png)
-![Image of Steph Li](images/IMG_3130.HEIC)
+<div style="display: flex; justify-content: center;">
+    <img src="images/logo.png" alt="Image of fast.ai logo" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="images/IMG_3130.HEIC" alt="Image of Steph Li" style="width: 200px; height: auto;">
+</div>
 
 ## Journey into AI with Steph Li
 
