@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Steph Li's Awesome fastai 
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+title: Steph Li's Journey into the World of fastai: Exploring Machine Learning with Passion
+description: Dive into the exciting realm of machine learning alongside Steph Li as he shares insights, tutorials, and discoveries with boundless enthusiasm. Join the adventure and unlock the power of fastai with Steph's expert guidance. Happy exploring! 🚀
 github_username: StephLii
 
 # Email and twitter are optional:
 email: steph.li@uq.edu.au
-twitter_username: 
+twitter_username: stephen_li_1
 
 # Set this to true to get LaTeX math equation support
 use_math: true
